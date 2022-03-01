@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201636701612",
+    "project_id": "test-1-f1207",
+    "storage_bucket": "test-1-f1207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201636701612:android:cf75c0d4cc37d5b557c609",
+        "android_client_info": {
+          "package_name": "com.example.attic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201636701612-lk82gssq4rs6adtp2043up10j5603j6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8AvJISO_mNFSRiq6jxv0sgVIxG2WTCGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201636701612-lk82gssq4rs6adtp2043up10j5603j6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
